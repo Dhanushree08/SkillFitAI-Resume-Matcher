@@ -21,6 +21,16 @@ By transitioning away from time-consuming and error-prone manual screening, Skil
 
 SkillFitAI employs a modern **Agentic Architecture** designed for scalability, transparency, and efficiency. The system relies on four specialized agents coordinated by a Central Orchestrator:
 
+```mermaid
+graph TD
+    A[Upload Resumes & JDs] --> B{Central Orchestrator}
+    B --> C[📥 Input Handling Agent]
+    C -->|Validates & Extracts Text| D[⚙️ Preprocessing Agent]
+    D -->|NLP Skill Extraction| E[🧠 Matching Agent]
+    E -->|SBERT Embeddings & Cosine Sim| F[💬 Communication Agent]
+    F -->|XAI Explanations| G((Ranked Candidates Output))
+```
+
 ### 1. The Agentic Workflow
 *   **📥 Input Handling Agent:** Validates and converts multi-format files (PDF, DOCX, TXT) into structured plain text without data loss.
 *   **⚙️ Preprocessing Agent:** Utilizes advanced NLP techniques to extract key entities such as skills, education history, and work experience.
