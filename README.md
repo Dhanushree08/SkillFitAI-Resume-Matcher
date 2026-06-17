@@ -99,3 +99,6 @@ Upon successful execution, SkillFitAI generates the following inside the `result
 *   **Multi-language Support:** Expanding semantic matching beyond English resumes.
 *   **ATS Integrations:** Direct API integrations with enterprise platforms like Workday and Lever.
 *   **Technical Optimization:** Model quantization and hardware acceleration for massive batch processing.
+
+---
+*Developed as a Master's Capstone AI project. For academic and demonstration purposes only.*
