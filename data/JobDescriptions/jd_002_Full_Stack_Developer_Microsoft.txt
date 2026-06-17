@@ -1,0 +1,284 @@
+
+Full Stack Developer - Microsoft
+================================
+
+COMPANY: Microsoft | DEPARTMENT: Engineering & Technology
+LOCATION: Mumbai, India
+EXPERIENCE LEVEL: 11+ years | JOB TYPE: Full-time, Permanent
+SALARY RANGE: ₹29.00 - ₹88.00 LPA | POSTED: October 27, 2025
+JOB ID: 64330 | APPLICATIONS: 479 received
+
+ABOUT MICROSOFT
+===============
+Microsoft stands at the forefront of technological innovation, transforming industries and redefining 
+the future of digital experiences. As a global technology leader with operations spanning 72+ countries 
+and serving over 260 million customers worldwide, we are committed to building solutions that 
+matter and creating meaningful impact through cutting-edge technology.
+
+Our engineering teams tackle some of the world's most complex challenges, from developing AI-powered 
+platforms that process petabytes of data daily to creating seamless user experiences for billions 
+of global users. We foster a culture of innovation, collaboration, and continuous learning, where 
+every engineer has the opportunity to shape the future of technology.
+
+With a valuation exceeding $162 billion and consistent recognition as one of the world's 
+most innovative companies, Microsoft offers unparalleled opportunities for professional growth and 
+the chance to work alongside some of the brightest minds in technology.
+
+OUR ENGINEERING CULTURE
+========================
+- Innovation First: We encourage bold thinking and provide resources to turn innovative ideas into reality
+- Scale & Impact: Our systems serve billions of users and process exabytes of data annually
+- Open Collaboration: We believe in open-source contributions and knowledge sharing across teams
+- Continuous Learning: $10,000+ annual learning budget and dedicated time for skill development
+- Diversity & Inclusion: 40%+ diverse workforce with inclusive hiring and promotion practices
+- Work-Life Integration: Flexible schedules, unlimited PTO, and comprehensive wellness programs
+
+POSITION OVERVIEW
+=================
+We are seeking an exceptional Full Stack Developer to join our world-class engineering organization and drive 
+the next generation of technological breakthroughs. This role offers the unique opportunity to work 
+on large-scale distributed systems, cutting-edge AI/ML applications, and cloud-native architectures 
+that directly impact millions of users globally.
+
+As a Full Stack Developer at Microsoft, you will be at the center of our most strategic initiatives, collaborating 
+with product managers, designers, data scientists, and fellow engineers to deliver solutions that 
+define industry standards. You will have the autonomy to make architectural decisions, influence 
+our technical roadmap, and mentor the next generation of engineering talent.
+
+This position is ideal for a seasoned professional who thrives in ambiguous environments, has a 
+passion for solving complex problems at scale, and wants to make a meaningful impact on the future 
+of technology. You will be working with technologies like Kubernetes, Apache Kafka, TensorFlow, 
+React, microservices, and cloud platforms across AWS, Azure, and GCP.
+
+CORE RESPONSIBILITIES & IMPACT AREAS
+====================================
+
+TECHNICAL LEADERSHIP & ARCHITECTURE
+- Design and architect large-scale distributed systems supporting 211M+ concurrent users
+- Lead technical decision-making for products generating $411M+ annual revenue
+- Establish engineering standards, best practices, and architectural patterns across multiple teams
+- Drive adoption of emerging technologies and evaluate their strategic impact on our platform
+- Participate in technical reviews and provide guidance on complex system design challenges
+- Champion engineering excellence through code reviews, design documents, and technical mentorship
+
+PRODUCT DEVELOPMENT & DELIVERY
+- Own end-to-end delivery of major product features from conception to production deployment
+- Collaborate with cross-functional teams including Product Management, Design, Data Science, and Marketing
+- Implement robust testing strategies ensuring 99.99% reliability for mission-critical systems
+- Build and maintain CI/CD pipelines supporting hundreds of deployments per day
+- Establish monitoring, alerting, and observability practices for proactive system health management
+- Drive performance optimization initiatives reducing latency by 50%+ and improving user experience
+
+INNOVATION & RESEARCH
+- Research and prototype next-generation technologies in AI/ML, blockchain, edge computing, and quantum computing
+- Contribute to open-source projects and represent Microsoft at major technology conferences
+- File patents and intellectual property to protect our competitive advantages
+- Collaborate with research institutions and participate in industry standardization efforts
+- Lead hackathons and innovation challenges to foster creative problem-solving across the organization
+- Establish technology partnerships with leading vendors and emerging startups
+
+TEAM LEADERSHIP & MENTORSHIP
+- Lead and mentor engineering teams of 10-20+ senior engineers and technical leads
+- Establish career development paths and provide growth opportunities for team members
+- Conduct technical interviews and participate in hiring decisions for senior engineering roles
+- Foster an inclusive, collaborative environment that encourages diverse perspectives and ideas
+- Organize technical talks, workshops, and knowledge-sharing sessions across the engineering organization
+- Contribute to engineering culture initiatives and employee engagement programs
+
+REQUIRED QUALIFICATIONS & EXPERTISE
+===================================
+
+EDUCATIONAL BACKGROUND
+- Bachelor's or Master's degree in Computer Science, Software Engineering, or related technical field
+- PhD preferred for roles involving advanced research and machine learning applications
+- Demonstrated academic excellence with strong foundation in algorithms, data structures, and system design
+- Continuous learning mindset with active participation in professional development programs
+
+TECHNICAL EXPERTISE (8+ YEARS REQUIRED)
+Programming & Development:
+- Expert-level proficiency in multiple programming languages: Python, Java, JavaScript/TypeScript, Go, Scala
+- Advanced knowledge of software design patterns, clean code principles, and refactoring techniques
+- Experience with functional programming concepts and reactive programming paradigms
+- Proficiency in multiple frontend frameworks: React, Angular, Vue.js with state management (Redux, MobX)
+- Backend development expertise with Spring Boot, Django, Express.js, FastAPI, or similar frameworks
+
+Cloud & Infrastructure:
+- Extensive experience with cloud platforms: AWS, Azure, Google Cloud Platform (multi-cloud preferred)
+- Deep understanding of containerization with Docker and orchestration with Kubernetes
+- Infrastructure as Code experience with Terraform, CloudFormation, or ARM templates
+- Microservices architecture design and implementation at enterprise scale
+- Serverless computing experience with Lambda, Azure Functions, Cloud Functions
+
+Data & Analytics:
+- Strong database skills: PostgreSQL, MySQL, MongoDB, Cassandra, Redis, Elasticsearch
+- Big data technologies: Apache Spark, Hadoop, Kafka, Storm, or similar distributed processing frameworks
+- Data pipeline development and ETL/ELT processes for handling petabyte-scale datasets
+- Experience with data warehousing solutions: Snowflake, BigQuery, Redshift, or similar platforms
+- Analytics and visualization tools: Tableau, Looker, Grafana, or custom dashboard development
+
+DevOps & Reliability:
+- Advanced CI/CD pipeline development with Jenkins, GitLab CI, GitHub Actions, or Azure DevOps
+- Monitoring and observability with Prometheus, Grafana, ELK Stack, Datadog, or New Relic
+- Site Reliability Engineering (SRE) practices including incident response and post-mortem analysis
+- Security best practices including OWASP guidelines, penetration testing, and compliance frameworks
+- Performance engineering and capacity planning for high-traffic applications
+
+LEADERSHIP & SOFT SKILLS
+- Proven track record of leading engineering teams and delivering complex projects on time and within budget
+- Excellent communication skills with ability to present technical concepts to both technical and non-technical audiences
+- Strong analytical and problem-solving skills with systematic approach to debugging and optimization
+- Experience with agile methodologies (Scrum, Kanban) and project management tools (JIRA, Confluence, Asana)
+- Demonstrated ability to work in fast-paced, ambiguous environments with changing requirements
+
+PREFERRED QUALIFICATIONS & DISTINGUISHING FACTORS
+=================================================
+
+ADVANCED TECHNICAL EXPERIENCE
+- Machine Learning and AI: TensorFlow, PyTorch, Scikit-learn, MLOps, model deployment at scale
+- Blockchain and Web3: Smart contract development, DeFi protocols, cryptocurrency systems
+- Edge Computing: IoT platforms, real-time processing, embedded systems development
+- Security Expertise: Cryptography, zero-trust architecture, compliance frameworks (SOX, HIPAA, GDPR)
+- Mobile Development: React Native, Flutter, native iOS/Android development
+
+INDUSTRY RECOGNITION & CONTRIBUTIONS
+- Active contributions to major open-source projects with demonstrable impact on the community
+- Published research papers, technical articles, or speaking engagements at major conferences
+- Patents filed or granted in relevant technology domains
+- Recognition through industry awards, hackathon victories, or competitive programming achievements
+- Technical leadership roles in previous organizations with measurable business impact
+
+DOMAIN EXPERTISE
+- Experience in specific verticals: Fintech, Healthcare, E-commerce, Gaming, or Enterprise Software
+- Regulatory compliance experience in highly regulated industries
+- International experience working with distributed teams across multiple time zones
+- Startup experience with ability to operate in resource-constrained, high-growth environments
+
+WHAT WE OFFER: COMPREHENSIVE BENEFITS & GROWTH OPPORTUNITIES
+===========================================================
+
+COMPENSATION & FINANCIAL BENEFITS
+- Highly competitive base salary: ₹31.00 - ₹136.00 LPA based on experience and qualifications
+- Performance-based annual bonuses: 20-50% of base salary tied to individual and company performance
+- Equity participation: Stock options and RSUs with significant upside potential
+- Annual salary reviews with merit-based increases and promotion opportunities
+- Retention bonuses and long-term incentive plans for top performers
+- Relocation assistance up to ₹10.00 LPA for candidates willing to relocate
+
+HEALTH & WELLNESS BENEFITS
+- Comprehensive health insurance covering employee and family (spouse + 2 children)
+- Premium medical coverage including dental, vision, and mental health services
+- Annual health checkups and wellness programs with on-site fitness facilities
+- Mental health support including counseling services and stress management programs
+- Flexible spending accounts for healthcare and dependent care expenses
+- Life and disability insurance with coverage up to 10x annual salary
+
+WORK-LIFE INTEGRATION & FLEXIBILITY
+- Hybrid work model with flexibility to work from office or home based on project needs
+- Unlimited paid time off policy with mandatory minimum vacation requirements
+- Sabbatical opportunities for long-term employees (3-month paid sabbatical after 5 years)
+- Flexible working hours with core collaboration time from 10 AM - 3 PM IST
+- Remote work stipend for home office setup and internet connectivity
+- Annual workation opportunities to work from different Microsoft offices globally
+
+PROFESSIONAL DEVELOPMENT & LEARNING
+- Annual learning budget of ₹2.50 LPA for conferences, courses, certifications, and books
+- Access to internal university with courses taught by industry experts and Microsoft leaders
+- Mentorship programs pairing employees with senior leaders and external industry veterans
+- Conference attendance support including travel, accommodation, and speaking opportunities
+- Internal mobility programs with opportunities to work in different teams and geographies
+- Tuition reimbursement for advanced degrees and professional certifications
+
+INNOVATION & IMPACT OPPORTUNITIES
+- 20% time allocation for passion projects and innovation initiatives
+- Access to cutting-edge technology and computing resources for experimentation
+- Opportunity to work on products used by millions of users worldwide
+- Patents and intellectual property recognition with financial rewards
+- Internal startup incubator with funding for promising employee-led initiatives
+- Cross-functional project opportunities with exposure to different aspects of the business
+
+TEAM & CULTURE BENEFITS
+- Collaborative, inclusive work environment with emphasis on psychological safety
+- Regular team building activities, hackathons, and company-wide events
+- Employee resource groups supporting diversity, inclusion, and professional development
+- Transparent communication with regular all-hands meetings and leadership Q&A sessions
+- Recognition programs celebrating individual and team achievements
+- Strong engineering culture with emphasis on technical excellence and continuous improvement
+
+APPLICATION PROCESS & NEXT STEPS
+================================
+
+HOW TO APPLY
+1. Submit your comprehensive resume highlighting relevant experience and achievements
+2. Include a cover letter explaining your interest in Microsoft and this specific role
+3. Provide links to your professional portfolio, GitHub profile, and relevant project work
+4. Complete our technical assessment (estimated time: 2-3 hours)
+5. Participate in our structured interview process (4-5 rounds over 2-3 weeks)
+
+INTERVIEW PROCESS OVERVIEW
+Round 1: Technical Phone Screen (45 minutes)
+- Data structures, algorithms, and problem-solving assessment
+- Discussion of past projects and technical decisions
+
+Round 2: System Design Interview (60 minutes)
+- Large-scale system architecture and design thinking
+- Trade-offs analysis and scalability considerations
+
+Round 3: Technical Deep Dive (60 minutes)
+- Coding assessment in your preferred programming language
+- Code review and optimization discussions
+
+Round 4: Behavioral & Leadership Interview (45 minutes)
+- Leadership experience and team collaboration scenarios
+- Cultural fit assessment and career motivation discussion
+
+Round 5: Final Interview with Engineering Leadership (45 minutes)
+- Strategic thinking and vision alignment
+- Technical roadmap and innovation discussions
+
+TIMELINE & EXPECTATIONS
+- Application review: Within 5 business days of submission
+- Complete interview process: 2-3 weeks from initial phone screen
+- Decision communication: Within 2 business days of final interview
+- Start date: Flexible based on candidate availability and notice period requirements
+- Onboarding duration: 4-week comprehensive program with dedicated mentorship
+
+DIVERSITY, EQUITY, INCLUSION & ACCESSIBILITY
+============================================
+Microsoft is committed to creating a workplace where everyone can thrive, regardless of background, 
+identity, or experience. We actively seek diverse perspectives and are proud to be an equal opportunity 
+employer. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, 
+age, marital status, veteran status, or disability status.
+
+We provide reasonable accommodations for candidates with disabilities throughout the interview process 
+and employment. If you need any accommodations, please let us know during the application process.
+
+Our commitment to inclusion extends beyond hiring - we have established employee resource groups, 
+mentorship programs, and leadership development initiatives specifically designed to support 
+underrepresented groups in technology.
+
+CONTACT INFORMATION & ADDITIONAL RESOURCES
+==========================================
+For questions about this role or the application process:
+- Primary Contact: recruiting-full-stack-developer@microsoft.com
+- Phone: +91-8882824373 (Available Monday-Friday, 9 AM - 6 PM IST)
+- LinkedIn: Follow @MicrosoftCareers for updates and insights
+- Glassdoor: Check our employee reviews and company ratings
+
+Additional Resources:
+- Engineering Blog: tech.microsoft.com
+- Open Source Projects: github.com/microsoft
+- Technical Documentation: docs.microsoft.com
+- Company Culture Videos: careers.microsoft.com/culture
+
+We encourage you to research our technology stack, recent product launches, and engineering culture 
+before applying. This will help you understand how your skills and interests align with our mission 
+and provide more context for your application and interviews.
+
+Thank you for considering Microsoft as your next career opportunity. We look forward to reviewing 
+your application and potentially welcoming you to our world-class engineering team!
+
+Application Deadline: Rolling basis - we encourage early applications as we review candidates continuously.
+Security Clearance: Not required for this position, but preference may be given to candidates with existing clearances.
+Travel Requirements: Occasional travel (10-20% annually) for conferences, team meetings, and client engagements.
+
+Microsoft | Building the Future of Technology | Est. 1997 | Global Headquarters: Mountain View, CA

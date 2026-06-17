@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+sentence-transformers
+spacy
+streamlit
+python-docx
+pdfplumber
+sqlalchemy
+psycopg2
